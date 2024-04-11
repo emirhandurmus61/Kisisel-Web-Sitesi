@@ -1,0 +1,270 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#baslik {
+  background-color: #77B0AA;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+#web {
+  color: #135D66;
+  text-align: center;
+  font-size: 72px;
+  text-align: center;
+  font-family: "Audiowide", sans-serif;
+
+}
+
+#sekme {
+  margin: auto;
+  margin-top: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #003C43;
+  width: 800px;
+  border-radius: 8px;
+}
+
+#govde {
+  width: 778px;
+  height: 500px;
+  margin-left: 360px;
+  padding: 7px;
+  border: 5px solid #135D66;
+  border-style: ridge;
+  float: left;
+  margin-top: 20px;
+  background-color: #E3FEF7;
+}
+
+#son {
+  background-color: #003C43;
+  margin-top: 565px;
+  margin-bottom: 0px;
+  height: 300px;
+}
+
+.menu {
+  margin-left: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: white;
+  background-color: #77B0AA;
+  border: 2px;
+  border-radius: 5px;
+  border-style: double;
+  padding: 7px;
+  text-decoration: none;
+
+}
+
+a {
+  margin-left: 12px;
+}
+
+a:link {
+  color: #003C43;
+
+}
+
+a:hover {
+  color: #77B0AA;
+  background-color: #003C43;
+  text-decoration: none;
+}
+
+a:active {
+  color: #003C43;
+  background-color: #77B0AA;
+  text-decoration: none;
+}
+
+#form {
+  width: 790px;
+  height: 650px;
+  margin-left: 360px;
+  border: 5px solid #135D66;
+  border-style: ridge;
+  float: left;
+  margin-top: 20px;
+  background-color: #E3FEF7;
+  text-align: center;
+}
+
+form {
+  margin-top: 20px;
+  color: #003C43;
+}
+
+.aralik {
+  margin: 10px;
+  background-color: #003C43;
+  color: #77B0AA;
+  padding: 3px;
+}
+
+input {
+  margin-bottom: 7px;
+  padding: 4px;
+}
+
+textarea {
+  padding: 4px;
+}
+
+.baslik2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 15px;
+  color: #003C43;
+}
+
+table {
+  border: 2px #003C43;
+  border-style: solid;
+  border-spacing: 2px;
+  margin-left: 150px;
+  margin-top: 20px;
+
+}
+
+table tr th {
+  padding: 5px;
+}
+
+table tr td {
+  padding: 3px;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.ikon {
+  float: right;
+  padding-right: 9px;
+  margin-bottom: 10px;
+}
+
+#son1 {
+  background-color: #003C43;
+  margin-top: 700px;
+  margin-bottom: 0px;
+  height: 300px;
+}
+
+#baslik3 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-bottom: 5px;
+}
+
+ul {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 130px;
+}
+
+.listeresim {
+  margin: 10px;
+  margin-right: 10px;
+}
+
+#calismaresim {
+  padding: 50px;
+}
+
+#son2 {
+  background-color: #003C43;
+  margin-top: 1785px;
+  margin-bottom: 0px;
+  height: 300px;
+}
+
+#govde1 {
+  width: 778px;
+  height: 1720px;
+  margin-left: 360px;
+  padding: 7px;
+  border: 5px solid #135D66;
+  border-style: ridge;
+  float: left;
+  margin-top: 20px;
+  background-color: #E3FEF7;
+}
+
+ol {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-left: 130px;
+}
+
+#govde2 {
+  width: 778px;
+  height: 8800px;
+  margin-left: 360px;
+  padding: 7px;
+  border: 5px solid #135D66;
+  border-style: ridge;
+  float: left;
+  margin-top: 20px;
+  background-color: #E3FEF7;
+}
+
+#son3 {
+  background-color: #003C43;
+  margin-top: 8850px;
+  margin-bottom: 0px;
+  height: 300px;
+}
+
+#govde3 {
+  width: 778px;
+  height: 750px;
+  margin-left: 360px;
+  padding: 7px;
+  border: 5px solid #135D66;
+  border-style: ridge;
+  float: left;
+  margin-top: 20px;
+  background-color: #E3FEF7;
+}
+
+#son4 {
+  background-color: #003C43;
+  margin-top: 800px;
+  margin-bottom: 0px;
+  height: 300px;
+}
+#govde4{
+  width: 778px;
+  height: 4650px;
+  margin-left: 360px;
+  padding: 7px;
+  border: 5px solid #135D66;
+  border-style: ridge;
+  float: left;
+  margin-top: 20px;
+  background-color: #E3FEF7;
+}
+
+#son5{
+  background-color: #003C43;
+  margin-top: 4700px;
+  margin-bottom: 0px;
+  height: 300px;
+}
+
+.alt {
+  padding: 10px;
+  text-decoration: none;
+}
+
+#kucukmetin {
+  margin-top: 20px;
+  color: #77B0AA;
+}
